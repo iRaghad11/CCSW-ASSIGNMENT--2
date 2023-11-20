@@ -13,7 +13,9 @@ public class SensorDataProcessor {
     // Senson data and limits.
 public double[][][] data;
 public double[][] limit;
-// constructor
+
+// Constructor
+//Naming Inconsistency-sahar turki 2111421
 public DataProcessor(double[][][] data, double[][] limit) {
 this.data = data;
 this.limit = limit;
