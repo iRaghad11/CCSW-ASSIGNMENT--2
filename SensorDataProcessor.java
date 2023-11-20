@@ -13,6 +13,7 @@ import java.io.IOException;
  *
  * @author USER
  */
+
 public class SensorDataProcessor {
     
     // Senson data and limits.
